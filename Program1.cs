@@ -25,6 +25,7 @@ namespace Loops
             {
                 simbolField += simbol; 
             }
+            
             Console.Clear ();
             Console.WriteLine("{0}{1}{0}", simbol, simbolField);
             Console.WriteLine("{0}{1}{0}", simbol, userInput);
