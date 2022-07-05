@@ -29,7 +29,6 @@ namespace Loops
             Console.WriteLine("{0}{1}{0}", simbol, simbolField);
             Console.WriteLine("{0}{1}{0}", simbol, userInput);
             Console.WriteLine("{0}{1}{0}", simbol, simbolField);
-
         }
     }
 }
